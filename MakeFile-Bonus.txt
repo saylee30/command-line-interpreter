@@ -1,0 +1,27 @@
+
+# Implement a simple shell or command line interpreter. 
+CC = gcc
+## How to Compile:
+gcc uab_sh.c -lreadline
+
+## How to Execute:
+./a.out 
+
+
+
+#working file
+scp C:\Users\sayle\OneDrive\Desktop\SP\uab_sh.c saylee30@moat.cs.uab.edu:~/CS332/lab
+
+
+
+##Reference
+https://www.geeksforgeeks.org/making-linux-shell-c/
+https://beginnersbook.com/2014/06/c-program-to-display-fibonacci-series/
+https://github.com/laurakoco/linux-shell/blob/master/shell.c
+https://github.com/mohamed-minawi/Unix-Shell-and-History-Feature/blob/master/main.c
+https://github.com/deepakavs/Unix-shell-and-history-feature-C/blob/master/shell2.c
+
+Github-
+https://github.com/saylee30/command-line-interpreter
+
+
